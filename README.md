@@ -62,8 +62,8 @@ $$
 # Моё резюме
 
 ## Контактная информация
-- **Имя**: [Евгения]
-- **Email**: [goodtogod9@mail.ru]
+- **Имя**: [Майорова Евгения]
+- **Email**: [gogogo@mail.ru]
 - **GitHub**: [https://github.com/EugeneTsu](https://github.com/EugeneTsu) 
 - **Телефон**: [+7 (999) 159-24-68]
 
